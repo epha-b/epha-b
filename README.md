@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @epha-b
+- 👋 Hi, I am a Software Engineer from Ethiopia.
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning softwae engineering.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+
+  Front-end web and mobile application developer (React, React Native, Flutter)
+<!-- Back-end Node developer -->
+<!-- AI and ML entusiast & Tensorflow Developer -->
+<!-- UI/UX Designer -->
+
 
 <!---
 epha-b/epha-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
